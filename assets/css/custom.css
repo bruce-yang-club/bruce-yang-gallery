@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Garamond Light';
+  font-style: normal;
+  src: url('/fonts/AppleGaramond-Light.ttf') format('embedded-opentype'), /* Internet Explorer */
+       url('/fonts/AppleGaramond-Light.ttf') format('woff2'),             /* Super Modern Browsers */
+       url('/fonts/AppleGaramond-Light.ttf') format('woff'),              /* Pretty Modern Browsers */
+       url('/fonts/AppleGaramond-Light.ttf') format('truetype'),          /* Safari, Android, iOS */
+       url('/fonts/AppleGaramond-Light.ttf') format('svg');               /* Legacy iOS */
+}
+
+:root {
+  --surface-1-light: #ffffff;
+  --surface-2-light: #dee2e6;
+  --text-1-light: #030507;
+  --text-2-light: #868e96;
+  /* --surface-1-dark: #16191d; */
+  --surface-1-dark: #000000;
+  --surface-2-dark: #495057;
+  --text-1-dark: #f8f9fa;
+  --text-2-dark: #868e96;
+}
+
+html {
+  font-family: 'Garamond Light', 'Garamond', Courier, monospace;
+}
+
+.card img {
+  border-radius: 0;
+}
+
+.card div {
+  padding: 0;
+}
+
+.card div p {
+  opacity: 0;
+}
+
+.featured-card {
+  border-radius: 0;
+}
+
+.featured-card div p {
+  opacity: 0;
+}
