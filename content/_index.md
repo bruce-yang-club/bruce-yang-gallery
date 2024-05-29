@@ -1,7 +1,7 @@
 ---
-description: erferg
+description: 2024
 #lastmod: 2023-07-05
-title: Bruce Yang's Gallery
+title: BRUCE YANG'S GALLERY
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
