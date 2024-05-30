@@ -1,10 +1,10 @@
 ---
-description: Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.
+description: 
 menus: "main"
-title: RICOH｜GR
+title: San Francisco
 #type: gallery
 weight: 2
-featured_image: cover.jpg
+featured_image: R0005054.jpg
 params:
   theme: light
 ---
