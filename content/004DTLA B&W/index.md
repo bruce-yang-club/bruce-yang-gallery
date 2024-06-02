@@ -1,5 +1,5 @@
 ---
-description: 
+description: by RICOH GR3x
 menus: "main"
 title: IV DTLA ｜ B&W
 #type: gallery

@@ -1,11 +1,13 @@
-copyright = "© Bruce Yang"
+copyright = "©BruceYang"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Los_Angeles"
 timeout = "120s"
-title = "Gallery"
+title = "☀"
+
+# ϟ☀ ☁ ☂ ☃ ☄☉ ☼ ☽ ☾ ♁ ♨ ❄ ❅ ❆
 
 [params]
   defaultTheme = "light"

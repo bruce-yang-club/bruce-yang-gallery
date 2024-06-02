@@ -1,5 +1,5 @@
 ---
-description: 
+description: by RICOH GR3x
 menus: "main"
 title: II Santa Monica | B&W
 #type: gallery

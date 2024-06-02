@@ -1,7 +1,7 @@
 ---
-description: 
+description: by RICOH GR3x
 menus: "main"
-title: III San Francisco
+title: III San Francisco 
 #type: gallery
 weight: 2
 featured_image: R0005212.jpg
