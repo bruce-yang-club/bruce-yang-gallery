@@ -1,10 +1,10 @@
 ---
 description: by RICOH GR3x
 menus: "main"
-title: I Collection
+title: Ⅰ Collection
 #type: gallery
 weight: 2
-featured_image: IMG_1638.JPG
+featured_image: R0008218.JPG
 params:
   theme: light
 featured: true

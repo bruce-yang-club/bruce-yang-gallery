@@ -1,7 +1,7 @@
 ---
 description: by RICOH GR3x
 menus: "main"
-title: VI SF CHINA TOWN  
+title: Ⅵ SF CHINA TOWN  
 #type: gallery
 weight: 2
 featured_image: R0005480.jpg
